@@ -5,5 +5,10 @@ To Learn about Sass first of all you should have knowledge of
 2. CSS
 
 SASS
- Sass stands for Syntactically Awesome Stylesheet. Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. 
-It's translated to well-formatted, standard CSS using the command line tool or a plugin for your build system.
+* Sass stands for Syntactically Awesome Stylesheet
+* Sass is an extension to CSS
+* Sass is a CSS pre-processor
+* Sass is completely compatible with all versions of CSS
+* Sass reduces repetition of CSS and therefore saves time
+* Sass is free to download and use
+
