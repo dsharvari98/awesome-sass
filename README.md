@@ -168,9 +168,9 @@ Resulting CSS:
 }
 ```
 ## Resources
-⋅⋅* [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass) ](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
-..* [Sass](https://sass-lang.com)
-..* [What's the difference between Sass and scss](https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass)
+* [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass) ](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+* [Sass](https://sass-lang.com)
+* [What's the difference between Sass and scss](https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass)
 
 
 
