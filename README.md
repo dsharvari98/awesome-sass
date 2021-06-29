@@ -167,7 +167,6 @@ Resulting CSS:
   border-color: yellow;
 }
 ```
-In the above example, ```%message-shared``` is a placeholder class which will not be included as such into the resulting CSS
 
 
 
