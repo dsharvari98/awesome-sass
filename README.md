@@ -17,3 +17,14 @@ To Learn about Sass first of all you should have knowledge of
 
 ## Some Features
 examples are takes from [Sass website](https://sass-lang.com)
+
+## Variables
+```
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+```
