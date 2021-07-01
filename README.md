@@ -1,4 +1,6 @@
-# awesome-sass ![alt text]("Sass")
+<img src="https://github.com/dsharvari98/awesome-sass/blob/main/1_9U1toerFxB8aiFRreLxEUQ-removebg-preview.png" width="200" height="200">
+
+# awesome-sass 
 Notes regarding Sass framework
 To Learn about Sass first of all you should have knowledge of 
 1. HTML
