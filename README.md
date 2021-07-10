@@ -22,6 +22,7 @@ examples are takes from [Sass website](https://sass-lang.com)
 
 ## Variables
 ### Example SCSS:
+jhjhk
 ```
 $font-stack: Helvetica, sans-serif;
 $primary-color: #333;
