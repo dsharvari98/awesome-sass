@@ -3,7 +3,7 @@
 # awesome-sass 
 Notes regarding Sass framework
 To Learn about Sass first of all you should have knowledge of 
-1. HTML
+1. Html
 2. CSS
 
 # SASS
