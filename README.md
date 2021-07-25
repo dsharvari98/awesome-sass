@@ -57,7 +57,7 @@ nav a {
   text-decoration: none;
 }
 ```
-Example SCSS:
+Example SCSS
 ```
 nav {
   ul {
@@ -149,7 +149,7 @@ Example SCSS:
   border-color: yellow;
 }
 ```
-Resulting CSS:
+Resulting CSS
 ```
 .message, .success, .error, .warning {
   border: 1px solid #ccc;
